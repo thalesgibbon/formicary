@@ -1,0 +1,6 @@
+README.md
+setup.py
+formicary.egg-info/PKG-INFO
+formicary.egg-info/SOURCES.txt
+formicary.egg-info/dependency_links.txt
+formicary.egg-info/top_level.txt
