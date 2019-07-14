@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="formicary",
-    version="0.1",
+    version="0.2",
     author="Thales Gibbon",
     author_email="thales.gibbon@gmail.com",
     description="lib de etl",
