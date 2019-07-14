@@ -16,3 +16,6 @@ instalar a biblioteca
 
 desinstalar a biblioteca
 ```pip uninstall formicary```
+
+??? atualizar lib
+```python -m pip install --upgrade pip```
