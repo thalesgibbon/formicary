@@ -1,1 +1,1 @@
-name = "example_pkg"
+import formicary.funcoes.cortadora as cortadora
