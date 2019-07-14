@@ -4,7 +4,7 @@
     funcoes principal de cortar os alimentos ou vegetais maiores para o transporte ate o formigueiro
     figura de exemplo que faz a extracao dos dados para os transformadores
 """
-import __config__ as config
+from formicary import __config__ as config
 import pandas as pd
 import os
 from datetime import date
