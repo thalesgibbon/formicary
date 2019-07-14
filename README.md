@@ -21,10 +21,10 @@ instalar a lib
 ```pip install formicary```
 
 instalar a lib test
-```pip install --i https://test.pypi.org/simple/ formicary```
+```pip install --index-url https://test.pypi.org/simple/ formicary```
 
 instalar especifica versao
-```pip install -i https://test.pypi.org/simple/ formicary==0.5```
+```pip install --index-url https://test.pypi.org/simple/ formicary==0.5```
 
 desinstalar a biblioteca
 ```pip uninstall formicary```
