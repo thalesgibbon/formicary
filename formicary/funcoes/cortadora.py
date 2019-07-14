@@ -18,7 +18,7 @@ class cortadora(object):
         self.nome_arquivo = self.__class__.__name__
         self.save_log = False
         self.data_arquivo = date.today().strftime('%Y%m%d')
-        self.diretorio_arquivo = os.path.join(config.path_dados, f"{self.nome_arquivo}.pkl")
+        self.diretorio_arquivo = os.path.join(config.path_produto_cortadora, f"{self.nome_arquivo}.pkl")
 
     def executar(self):
         if self.sql and self.conexao:
