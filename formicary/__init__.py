@@ -1,1 +1,1 @@
-import formicary.funcoes.cortadora as cortadora
+from formicary.funcoes.cortadora import cortadora
